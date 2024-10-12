@@ -6,7 +6,7 @@
 
 ## Step 2:
 
-> add file value
+> Add file value
 
 <pre><code>
 RAR registration data
